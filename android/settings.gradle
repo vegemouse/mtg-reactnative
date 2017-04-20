@@ -1,0 +1,3 @@
+rootProject.name = 'mtg_cards'
+
+include ':app'
